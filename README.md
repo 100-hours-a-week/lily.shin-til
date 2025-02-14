@@ -11,3 +11,5 @@
 - [x] [25.02.10](https://github.com/100-hours-a-week/lily.shin-til/blob/main/Feb/2025-02-10.md) - [ Docker 개념 ]
 - [x] [25.02.11](https://github.com/100-hours-a-week/lily.shin-til/blob/main/Feb/2025-02-11.md) - [ Docker 실습 ]
 - [x] [25.02.12](https://github.com/100-hours-a-week/lily.shin-til/blob/main/Feb/2025-02-12.md) - [ GitLab 설치 ]
+- [x] [25.02.13](https://github.com/100-hours-a-week/lily.shin-til/blob/main/Feb/2025-02-13.md) - [ Docker Private Registry (SSL, Basic Authentication) ]
+- [x] [25.02.14](https://github.com/100-hours-a-week/lily.shin-til/blob/main/Feb/2025-02-14.md) - [ Docker Volume, Bind Mount ]
